@@ -1,0 +1,2 @@
+hello this is Yeabkal taking part in the odin projects full stack web dev 
+curriculem currently learning about Git
